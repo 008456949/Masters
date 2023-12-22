@@ -8,8 +8,6 @@ Welcome to the CSUSB Master's in Computer Science Documents repository! This rep
 - **Forms**: Downloadable forms for various purposes.
 - **Announcements**: Important updates and news.
 
-Explore the [Masters](./SEC) directory for specific files.
-
 ## How to Contribute
 We welcome contributions! If you have relevant documents or updates:
 1. Fork the repository.
